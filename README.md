@@ -1,2 +1,2 @@
-# Eden
-Environmental Scanner for Planting Purposes
+## Eden
+# Environmental Scanner for Planting Purposes
