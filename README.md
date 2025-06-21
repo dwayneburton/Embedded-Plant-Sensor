@@ -1,2 +1,2 @@
-# Eden
-For a Project Studio Design course at the University of Waterloo (ECE 198), my group created Eden, an environmental scanner for planting purposes. Using an STM32 Nucleo Board and the STM32CubeIDE, I designed algorithms to receive data from a Temperature/Humidity sensor and a Photoresistor and output the information to an LCD screen in a user-friendly format **(C, STM32CubeIDE)**.
+# Embedded Plant Sensor
+An environmental monitoring system designed for planting applications, built using an STM32 Nucleo board. Written in C, the system reads data from a temperature/humidity sensor and a photoresistor, then displays real-time environmental conditions on an LCD screen in a user-friendly format.
